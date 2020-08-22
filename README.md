@@ -5,8 +5,8 @@ Aplicativo desenvolvido em flutter,  calcula o índice de massa corporal do usu�
 # Baixar aplicativo 
  :exclamation: Nota: O apk disponível para download é um apk grande que funciona na maioria das arquiteturas android. Se você  quiser um apk de tamanho pequeno, clone este repositório e gere um usando o Android Studio ou Visual Studio Code.
 <a href="https://github.com/monteiroricardo/CALC_IMC/blob/master/arquivos/app.apk">
-<img src="https://github.com/monteiroricardo/CALC_IMC/blob/master/arquivos/apk_btn.png" width="350" height="200" />
+<img src="https://github.com/monteiroricardo/CALC_IMC/blob/master/arquivos/apk_btn.png" width="200" height="100" />
 </ a>
 # Capturas de tela :mag_right: 
-https://github.com/monteiroricardo/CALC_IMC/blob/master/arquivos/cap01.png https://github.com/monteiroricardo/CALC_IMC/blob/master/arquivos/cap02.png
-
+<img src="https://github.com/monteiroricardo/CALC_IMC/blob/master/arquivos/cap01.png " width="200" height="100" />
+<img src="https://github.com/monteiroricardo/CALC_IMC/blob/master/arquivos/cap02.png " width="200" height="100" />
