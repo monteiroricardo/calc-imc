@@ -1,3 +1,4 @@
+
 # Calculadora de IMC
 > Status do Projeto: Concluído :heavy_check_mark:
 # Descrição do Projeto  :pencil:
@@ -12,7 +13,7 @@ Aplicativo desenvolvido em flutter,  calcula o índice de massa corporal do usu�
 # Capturas de tela :mag_right: 
 
 
-<!DOCTYPE html>
+
 <div class =" box">
     <img src="https://github.com/monteiroricardo/CALC_IMC/blob/master/arquivos/cap01.png "/>
     <span> Titulo da primeira imagem </span>
@@ -23,7 +24,7 @@ Aplicativo desenvolvido em flutter,  calcula o índice de massa corporal do usu�
 </div>
 <style>
 div.box {
-	width: 350;
+	width="350"
                height="700"
 	display: inline-block;
 }
