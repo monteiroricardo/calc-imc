@@ -12,6 +12,7 @@ Aplicativo desenvolvido em flutter,  calcula o √≠ndice de massa corporal do usu√
 # Capturas de tela :mag_right: 
 
 
+<!DOCTYPE html>
 <div class =" box">
     <img src="https://github.com/monteiroricardo/CALC_IMC/blob/master/arquivos/cap01.png "/>
     <span> Titulo da primeira imagem </span>
