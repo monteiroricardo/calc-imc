@@ -1,5 +1,5 @@
 # Calculadora de IMC
-> Status do Projeto: Concluído :heavy_check_mark:
+> Status do Projeto: Concluído :heavy_check_mark::heavy_check_mark:
 # Descrição do Projeto  :pencil:
 Aplicativo desenvolvido em flutter,  calcula o índice de massa corporal do usuário e retorna condicionalmente um breve estado de saúde junto ao resultado do IMC.
 # Baixar aplicativo 💻
