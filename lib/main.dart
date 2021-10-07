@@ -24,7 +24,6 @@ class _HomeState extends State<Home> {
     controlarPeso.text = "";
     setState(() {
       _info = "Informe seus dados";
-      _formKey = GlobalKey<FormState>();
     });
   }
 
